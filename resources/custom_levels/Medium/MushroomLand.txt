@@ -1,0 +1,21 @@
+# Level 1
+# Image Background and big blocks with 3 lives
+
+START_LEVEL
+level_name:MushroomLand
+ball_velocities:20,500
+background:image(background_images/MushroomLand.png)
+paddle_speed:650
+paddle_width:150
+block_definitions:definitions/Mushroom_Land_definitions.txt
+blocks_start_x:25
+blocks_start_y:120
+row_height:100
+num_blocks:30
+START_BLOCKS
+-
+-
+bgrbgrbgrbgrbgr
+bgrbgrbgrbgrbgr
+END_BLOCKS
+END_LEVEL

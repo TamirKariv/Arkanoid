@@ -1,0 +1,17 @@
+a:Square Moon
+resources/custom_levels/Easy/Square Moon.txt
+a:Jungle
+resources/custom_levels/Easy/Jungle.txt
+b:MushroomLand
+resources/custom_levels/Medium/MushroomLand.txt
+b:Antarctica
+resources/custom_levels/Medium/Antarctica.txt
+c:Retro Arrows
+resources/custom_levels/Hard/Retro Arrows.txt
+c:FinalFour
+resources/custom_levels/Hard/FinalFour.txt
+
+
+
+
+
